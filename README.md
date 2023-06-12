@@ -1,4 +1,3 @@
-# universe.sql
-Build a Celestial Bodies Database - 
+# freecodecamp.org | Relational Database | Challenges
 
-https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database
+1. Build a Celestial Bodies Database - universe.sql - https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database
